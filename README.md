@@ -1,5 +1,6 @@
-# react-rails [![Build Status](https://travis-ci.org/reactjs/react-rails.png)](https://travis-ci.org/reactjs/react-rails) [![Code Climate](https://codeclimate.com/github/reactjs/react-rails.png)](https://codeclimate.com/github/reactjs/react-rails)
+Changes from master:
 
+<<<<<<< HEAD
 react-rails is a ruby gem which makes it easier to use [React](http://facebook.github.io/react/) and [JSX](http://facebook.github.io/react/docs/jsx-in-depth.html) in your Ruby on Rails application.
 
 This is done in 2 ways:
@@ -90,3 +91,6 @@ Component = React.createClass
     `<ExampleComponent videos={this.props.videos} />`
 ```
 
+=======
+* Can use `react-source` of any version.
+>>>>>>> 1d6fe49... Allow any version of react-source to be used.
